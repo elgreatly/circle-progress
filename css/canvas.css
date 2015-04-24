@@ -1,0 +1,38 @@
+.canvasContainer {
+	position: relative;
+	margin: 0 auto;
+  	display: table;
+}
+.mainCanvas {
+	position: relative;
+	z-index: 1;
+}
+.backCanvas {
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	z-index: 0;
+}
+.numberCanvas {
+	text-align: center;
+  	height: 0;
+  	line-height: 220px;
+  	font-size: 60px;
+}
+.iconCanvas {
+	text-align: center;
+	height: 0;
+}
+.iconCanvas span {
+	font-size: 35px;
+	line-height: 220px;
+	color: #a0ce4e;
+}
+.textCanvas {
+	height: 0;
+	text-align: center;
+}
+.textCanvas p {
+	line-height: 220px;
+  	font-size: 60px;
+}
