@@ -1,14 +1,14 @@
 {
   "name": "circle-progress",
-  "version": "1.0",
+  "version": "1.0.0",
   "title": "Circle Progress With Canvas",
   "author": {
-    "name": "Abdelrhman ElGreatly",
+    "name": "Abdelrhman ElGreatly"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
+      "type": "GPLv2",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
     }
   ],
   "dependencies": {
@@ -31,7 +31,7 @@
   "demo": "http://globinsoft.com/circle-progress/index.html",
   "maintainers": [
     {
-      "name": "Abdelrhman ElGreatly",
+      "name": "Abdelrhman ElGreatly"
     }
   ]
 }
